@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+- [SIEM Lab/Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>:memo: Certifications </h2>
 
